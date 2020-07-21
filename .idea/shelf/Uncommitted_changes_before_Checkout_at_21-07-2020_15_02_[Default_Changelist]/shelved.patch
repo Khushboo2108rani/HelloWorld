@@ -1,0 +1,29 @@
+Index: README.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>this is a readme file anyone having eyes can read this\r\nFor Sure I will
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- README.txt	(revision e1a4903a4da44f6fd2822ef50dc8ec2788b24846)
++++ README.txt	(date 1595323868623)
+@@ -1,2 +1,1 @@
+-this is a readme file anyone having eyes can read this
+-For Sure I will
+\ No newline at end of file
++this is a readme file anyone having eyes can read this
+\ No newline at end of file
+Index: check
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>checking for git now
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- check	(revision e1a4903a4da44f6fd2822ef50dc8ec2788b24846)
++++ check	(date 1595323868642)
+@@ -1,1 +1,1 @@
+-checking for git now
+\ No newline at end of file
++checking for git on 21/07
+\ No newline at end of file
